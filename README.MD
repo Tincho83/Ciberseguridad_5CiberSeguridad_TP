@@ -1,4 +1,4 @@
-![image](demo.png)
+![image](./demo.png)
 # CiberSeguridad - Pre Entrega TP
 ## _Realizar un análisis dinámico de una muestra de malware con práctica de los conocimientos adquiridos y considerando los puntos de la situación planteada._ 
 
