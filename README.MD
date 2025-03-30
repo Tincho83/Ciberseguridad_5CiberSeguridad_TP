@@ -1,4 +1,4 @@
-![image](/blob/main/demo.png)
+![image](https://github.com/Tincho83/Ciberseguridad_5CiberSeguridad_TP/blob/main/Demo.png)
 # CiberSeguridad - Pre Entrega TP
 ## _Realizar un análisis dinámico de una muestra de malware con práctica de los conocimientos adquiridos y considerando los puntos de la situación planteada._ 
 
@@ -57,11 +57,11 @@ Link al ejemplo https://drive.google.com/file/d/1wr5mFI7N2BpukULpky2hXSPtET1H9Lu
 
 
 ### Vista previa / Preview
-![image](/demo2.png)
+![image](https://github.com/Tincho83/Ciberseguridad_5CiberSeguridad_TP/blob/main/demo2.png)
 
  
 
 
 ### Contacto
 (https://www.linkedin.com/in/martin-hernandez-9b7154215)
-[![N|Solid](/linkedin.png)](https://www.linkedin.com/in/martin-hernandez-9b7154215)
+[![N|Solid](https://github.com/Tincho83/Ciberseguridad_5CiberSeguridad_TP/blob/main/linkedin.png)](https://www.linkedin.com/in/martin-hernandez-9b7154215)
