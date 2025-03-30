@@ -57,7 +57,7 @@ Link al ejemplo https://drive.google.com/file/d/1wr5mFI7N2BpukULpky2hXSPtET1H9Lu
 
 
 ### Vista previa / Preview
-![image](https://github.com/Tincho83/Ciberseguridad_5CiberSeguridad_TP/blob/main/demo2.png)
+![image](https://github.com/Tincho83/Ciberseguridad_5CiberSeguridad_TP/raw/main/demo2.png)
 
  
 
